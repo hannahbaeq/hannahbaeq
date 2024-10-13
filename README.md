@@ -1,4 +1,3 @@
 - Education: University of Maryland, Baltimore County
 - Major: Bachelor of Science, Computer Science
-- Grade-Point Average: 3.85
-- Proficient Coding Languages: Python, C++
+- Grade-Point Average: 3.83
